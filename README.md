@@ -1,1 +1,1 @@
-# week3_first_project
+# week3_project
